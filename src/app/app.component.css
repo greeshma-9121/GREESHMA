@@ -1,0 +1,95 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 20px;
+}
+.navbar-nav{
+    margin-left: 300px;
+    
+}
+#one{
+    padding-top: 40px;
+    margin-left: 200px;
+}
+#two{
+    margin-top: 50px;
+    padding-left: 220px;
+    padding-right: 150px;
+    background-color: rgb(245, 225, 225);
+}
+#three{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+#four{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin-top: 30px;
+    padding-left: 230px;
+}
+#six{
+    
+    margin-top: 50px;
+}
+#five{
+    margin-top:50px;
+    padding-left: 120px;
+}
+#nine{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+#ten{
+    margin-left: 200px;
+    margin-right: 100px;
+}
+h3{
+    color: red;
+    padding-top: 20px;
+}
+h6{
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+h5{
+    color: red;
+    padding-top: 10px;
+}
+h2{
+    color: black;
+}
+#seven{
+    background-color: red;
+}
+#dsi{
+    color: red;
+}
+  .card {
+    border: 3px solid #dad3d5;
+    color: rgba(250, 250, 250, 0.8);
+    margin-top: 50px;
+  }
+
+  .social-link {
+    width: 30px;
+    height: 30px;
+    border: 1px solid #ddd;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: red;
+    border-radius: 50%;
+    transition: all 0.3s;
+    font-size: 0.9rem;
+}
+.card-body{
+    text-align: center;
+}
+.card-img-top{
+    border-radius: 100px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+
+  
